@@ -3,6 +3,7 @@ import pygame as pg
 
 from random import randint
 
+# hello
 
 
 class Base_sprite(pg.sprite.Sprite):
